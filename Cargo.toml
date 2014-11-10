@@ -1,0 +1,9 @@
+[package]
+
+name = "befunge-rs"
+version = "0.1.0"
+authors = ["Robin Thrift <thrift.d.robin@googlemail.com>"]
+
+[[bin]]
+
+name = "befunge-rs"
